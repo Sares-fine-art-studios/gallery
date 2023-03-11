@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: Gallery 
 email: ""
 description: "Photo Journal"
 url: "https://sares-fine-art-studios.github.io"
-baseurl: "/photorama"
+baseurl: "/gallery"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sares-fine-art-studios.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sares-fine-art-studios.github.io/photorama/journal/"
-  - ABOUT: "https://sares-fine-art-studios.github.io/photorama/about/"
+  - GALLERY: "https://sares-fine-art-studios.github.io/gallery/gallery/"  
+  - JOURNAL: "https://sares-fine-art-studios.github.io/gallery/journal/"
+  - ABOUT: "https://sares-fine-art-studios.github.io/gallery/about/"
 
 # All translation keys
 translations:
