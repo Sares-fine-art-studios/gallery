@@ -2,7 +2,7 @@
 title: Gallery 
 email: ""
 description: "Photo Journal"
-url: "https://sares-fine-art-studios.github.io"
+url: "https://sara-hanson-fine-arts-studio.github.io"
 baseurl: "/gallery"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sares-fine-art-studios.github.io/gallery/gallery/"  
-  - JOURNAL: "https://sares-fine-art-studios.github.io/gallery/journal/"
-  - ABOUT: "https://sares-fine-art-studios.github.io/gallery/about/"
+  - GALLERY: "https://sara-hanson-fine-arts-studio.github.io/gallery/gallery/"  
+  - JOURNAL: "https://sara-hanson-fine-arts-studio.github.io/gallery/journal/"
+  - ABOUT: "https://sara-hanson-fine-arts-studio.github.io/gallery/about/"
 
 # All translation keys
 translations:
